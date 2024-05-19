@@ -1,0 +1,7 @@
+Akun Blynk Premium Bulanan
+user : Tafirman24@gmail.com
+pass : zxcvbnm!
+
+Wifi
+char ssid[] = "Ransomeware_Alert!";
+char pass[] = "Mackie1604";
