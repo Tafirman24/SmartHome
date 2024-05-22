@@ -5,3 +5,5 @@ pass : zxcvbnm!
 Wifi
 char ssid[] = "Ransomeware_Alert!";
 char pass[] = "Mackie1604";
+
+http://digistump.com/package_digistump_index.json,http://drazzy.com/package_drazzy.com_index.json
